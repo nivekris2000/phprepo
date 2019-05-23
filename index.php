@@ -1,3 +1,3 @@
 <?php
-	echo "<h1>Custom Php file</h1>";
+	echo "<h1>CUSTOM PHP </h1>";
 ?>
